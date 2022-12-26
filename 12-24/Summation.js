@@ -9,7 +9,7 @@ var summation = function (num) {
 
 
 // expect 10
-let tes1 = summation(4);
+let test1 = summation(4);
 
 // expect 21
 let test2 = summation(6);
@@ -17,4 +17,4 @@ let test2 = summation(6);
 // expect 3
 let test3 = summation(2);
 
-console.log(tes1,tes2,test3);
+console.log(test1,test2,test3);
